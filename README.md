@@ -1,2 +1,0 @@
-# quaran
-Created with CodeSandbox
